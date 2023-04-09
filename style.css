@@ -1,0 +1,26 @@
+.sec1 {
+    background-color: #1F2937;
+    padding-left: 48px;
+}
+
+.header {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+}
+
+.sec1-1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+}
